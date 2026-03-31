@@ -29,8 +29,8 @@ All generated texts are provided as JSON files, organised by clinical genre and 
 Each file contains:
 
 * input parameters (demographics, diagnosis, risks, etc.)
+* the precise prompts used
 * the resulting synthetic document text
-* metadata supporting corpus‑wide linguistic analysis
 
 For more details on corpus design and analysis, refer to our paper:
 ```
