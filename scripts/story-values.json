@@ -1,0 +1,9 @@
+{"age": ["25","50"],
+ "gender": ["female", "male"],
+ "sexuality": ["", "homosexual", "bisexual"],
+ "diagnosis": ["Single Episode Depressive Disorder", "Single Episode Depressive Disorder Moderate with no psychotic symptoms", "Single Episode Depressive Disorder Severe with psychotic symptoms.", "Bipolar I Disorder with episodes of mania alternating with depressive episodes", "Bipolar II Disorder with hypomanic and major depressive episodes", "Cyclothymic Disorder"],
+ "medication": ["", "taking sertraline 100 mg daily over the last three months", "taking sertraline 200 mg daily over the last three months"],
+ "ethnicity": ["White British", "Afro-Caribbean", "Afro-Caribbean, first generation"],
+ "risks": ["none", "chronic pain", "decreased libido", "suicidal ideations", "family history of suicide"],
+ "treatment": ["No admissions", "informal admissions", "detained under the mental health act (Section 2)", "detained under the mental health act (Section 3)"]
+}

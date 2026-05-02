@@ -1,0 +1,5 @@
+Please write three paragraphs for each of the following sections concerning a fictitious {gender} {sexuality} patient, who is {age} years old, has been diagnosed with {diagnosis}.
+Medication history: {medication}.
+Ethnicity: {ethnicity}.
+Treatment history: {treatment}
+Risks:  {risks}

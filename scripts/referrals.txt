@@ -1,0 +1,7 @@
+Please generate a Referral and Handover Letter for this patient.
+The sections need to include:
+ + Presenting Symptoms
+ + Background and Relevant Mental Health History
+ + Current Medication and Risk Assessment 
+ + Reasons for referral
+   
